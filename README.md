@@ -23,19 +23,15 @@ Welcome to Tic Tac Toe with AI! This project allows you to play the classic game
 
 ## Requirements
 
-- Python 3.x
+- Java 17 or higher
 
 ## How to Run
 
 1. Clone this repository to your local machine or download the source code as a ZIP file.
-2. Open a terminal or command prompt and navigate to the project directory.
-3. Run the following command to start the game:
-
-```bash
-python tic_tac_toe.py
-```
-
-4. Follow the on-screen instructions to select the game mode and make your moves.
+2. Open the project in your favorite Java IDE.
+3. Build the project to compile the source code.
+4. Run the main class (TicTacToe) to start the game.
+5. Follow the on-screen instructions to select the game mode and make your moves.
 
 ## Game Rules
 
