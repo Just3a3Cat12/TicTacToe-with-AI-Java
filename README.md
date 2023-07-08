@@ -58,8 +58,16 @@ The Minimax algorithm is a decision-making algorithm commonly used in games with
 
 This project is inspired by the game of Tic Tac Toe and the Minimax algorithm. It was developed by PANKAJ AMBEKAR as a demonstration of the Minimax algorithm and its application in game development.
 
-## License
+## Developer
+This project was developed by PANKAJ AMBEKAR.
 
-This project is licensed under the [MIT License](LICENSE).
+- Email: ambekarpankaj@outlook.com
 
-Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. Enjoy playing Tic Tac Toe with AI!
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+## Contact
+If you have any questions or suggestions regarding this project, feel free to contact the maintainer at ambekarpankaj@outlook.com.
+
+
+Enjoy playing Tic Tac Toe with AI!
